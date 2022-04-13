@@ -1034,6 +1034,20 @@ Primary use:	Showcase Portfolio
 		margin-bottom:20px;
 		position:relative;
 	}
+
+	.title-intro2 {
+		color:#000;
+		font-size:44px;
+		line-height:36px;
+		margin-bottom:20px;
+		position:relative;
+		font-weight: 700;
+	}
+
+	.sacar {
+		display: none!important;
+	}
+
 	
 	.title-intro span {
 		opacity: 0;
