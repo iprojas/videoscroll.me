@@ -33,7 +33,7 @@ Primary use:	Showcase Portfolio
 /* 1. General Styles */		
 	
 	html,body{
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Rubik', sans-serif;
 		font-weight: 300;
 		font-size:15px;
 		line-height:24px;
@@ -429,7 +429,7 @@ Primary use:	Showcase Portfolio
 	}
 		
 	h1, h2, h3, h4, h5, h6 {
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Rubik', sans-serif;
 		font-weight: 300;
 		color:#000;
 		margin-bottom:0px;
@@ -1042,6 +1042,7 @@ Primary use:	Showcase Portfolio
 		margin-bottom:20px;
 		position:relative;
 		font-weight: 700;
+		text-transform: uppercase;
 	}
 
 	.sacar {
@@ -1197,7 +1198,7 @@ Primary use:	Showcase Portfolio
 	
 	input[type="text"], textarea {
 		color: #000;
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Rubik', sans-serif;
 		font-size: 15px;
 		font-weight: 400;
 		height: 50px;
@@ -1320,7 +1321,7 @@ Primary use:	Showcase Portfolio
 	}
 	
 	.submit-box input[type="submit"] {
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Rubik', sans-serif;
 		font-weight: 400;
 		font-size:15px;
 		z-index:10;
